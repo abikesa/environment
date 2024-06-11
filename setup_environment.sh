@@ -1,3 +1,4 @@
+
 #!/bin/zsh
 
 # Define the environment directory
@@ -32,4 +33,4 @@ python -m stata_kernel.install
 deactivate
 
 echo "Environment setup complete."
-``
+ 
